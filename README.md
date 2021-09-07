@@ -1,7 +1,7 @@
 # computer-vision
 
 <h1 align="center">
-    <img alt="computerVision" src=".github/img.PNG" height="600px" />
+    <img alt="computerVision" src=".github/computer-vision.jpg" height="600px" />
 </h1>
 
 ## Installation
